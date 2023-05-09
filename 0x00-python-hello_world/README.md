@@ -1,7 +1,9 @@
 0x00. Python - Hello, World
 
 Requirements
+
 Python Scripts
+
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 All your files should end with a new line
@@ -13,6 +15,7 @@ All your files must be executable
 The length of your files will be tested using wc
 
 Shell Scripts
+
 Allowed editors: vi, vim, emacs
 All your scripts will be tested on Ubuntu 20.04 LTS
 All your scripts should be exactly two lines long (wc -l file should print 2)
@@ -21,6 +24,7 @@ The first line of all your files should be exactly #!/bin/bash
 All your files must be executable
 
 C Scripts
+
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
@@ -49,10 +53,6 @@ The Python code will be saved in the environment variable $PYCODE
 Write a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 
 Use the function print
-guillaume@ubuntu:~/py/0x00$ ./2-print.py 
-"Programming is like building a multilingual puzzle
-guillaume@ubuntu:~/py/0x00$
-
 
 3. Print integer
 Complete this source code in order to print the integer stored in the variable number, followed by Battery street, followed by a new line.
