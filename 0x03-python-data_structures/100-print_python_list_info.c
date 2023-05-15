@@ -1,5 +1,5 @@
-#include <lists.h>
-
+#include <stdio.h>
+#include <Python.h>
 /**
  * print_python_list_info - function that prints 
  * info about  python list
